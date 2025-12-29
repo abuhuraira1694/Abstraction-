@@ -1,7 +1,7 @@
-# Abstraction-
+# *Abstraction-*
 *Abstraction in C# using abstract classes and interfaces*
 
-# what is abstraction?
+# *what is abstraction?*
  *abstraction is a main concept of OOP which belongs to showing only essential details and hiding interfnal details.*
 
 # Benefits of abstraction
@@ -12,8 +12,8 @@
 # How abstraction is achieved in C#?
  *In C# there are two ways to implement abstraction.*
 
- * using Abstract classes
- * Using Interfaces
+ * *using Abstract classes*
+ * *Using Interfaces*
 
 # 1.Abstract Classes:
   * *its a class which is declared with **abstract** keyword. Abstract class is always use as base class.In abstract class we use **abstract methods** in the abstract class.
