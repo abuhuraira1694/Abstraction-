@@ -5,7 +5,7 @@
  *abstraction is a main concept of OOP which belongs to showing only essential details and hiding internal details.*
 
 # Benefits of abstraction
- - *It reduces code complexity.*
+ * *It reduces code complexity.*
  * *Improves readability and maintainability.*
  * *Allows developers to change implementation without affecting usage.*
 
