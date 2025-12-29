@@ -27,5 +27,7 @@ Abstraction in C# using abstract classes and interfaces
   * we can make referance veriable of abstract class.
   * To use abstract classes we inherit them.
 # Example:
-  
+  **Example_1** and **Example_2** in code files representing abstraction using abstract classes.
+  * In Example_1 class1 is abstract class which contain two abstract methods.And this class is inherited in Class2 and in this class abstract methods are implemented and in the **Main** method an **Object** of class2 is made to call the methods.
+  * In Example_2 class1 is abstract class which contain 3 abstract methods
      
