@@ -25,4 +25,7 @@ Abstraction in C# using abstract classes and interfaces
   * And if we make method private then Inheretance is not possible but for abstraction inheretance is compulsory.
   * We can not make **object** of abstract class.
   * we can make referance veriable of abstract class.
-  *  
+  * To use abstract classes we inherit them.
+# Example:
+  
+     
