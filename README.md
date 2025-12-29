@@ -9,11 +9,14 @@ Abstraction in C# using abstract classes and interfaces
  * Improves readability and maintainability.
  * Allows developers to change implementation without effecting usage.
 
-# HOw abstraction is achieved in C#?
+# How abstraction is achieved in C#?
  In C# there are two ways to implement abstraction.
 
- * using Abstract classes     * Using Interfaces
+ * using Abstract classes
+ * Using Interfaces
 
-# Explanation of Abstract Classes:
-  its a class which is declared with **abstract** keyword. Abstract class is always use as base class.In abstract class we use **abstract methods** in the abstract class.
-  In Abstract methods we just write method name an parameters(if method have) mean we just write method signature. we don't write any code inside the method 
+# Abstract Classes:
+  * its a class which is declared with **abstract** keyword. Abstract class is always use as base class.In abstract class we use **abstract methods** in the abstract class.
+    In Abstract methods we just write method name an parameters(if method have) mean we just write method signature. we don't write any code inside the method
+    mean we not write any body the method.
+  * in the abstract classes we can write non-abstract methods(Normal methods).And these methods execute normaly like in other normal classes. 
