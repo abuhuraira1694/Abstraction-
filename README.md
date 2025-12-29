@@ -2,12 +2,12 @@
 *Abstraction in C# using abstract classes and interfaces*
 
 # what is abstraction?
- *abstraction is a main concept of OOP which belongs to showing only essential details and hiding interfnal details.*
+ *abstraction is a main concept of OOP which belongs to showing only essential details and hiding internal details.*
 
 # Benefits of abstraction
- * *It reduce code complexity.*
+ * *It reduces code complexity.*
  * *Improves readability and maintainability.*
- * *Allows developers to change implementation without effecting usage.*
+ * *Allows developers to change implementation without affecting usage.*
 
 # How abstraction is achieved in C#?
  *In C# there are two ways to implement abstraction.*
@@ -32,7 +32,7 @@
   * *In Example_2 class1 is abstract class which contain 3 abstract methods.and class2 inherit it and implement abstract methods.Class3 also inherit abstract class and implement abstract methods. and noteable point here is that code of that class will be execute that class object we use.*
 # 2.Interfaces:
 * *Interfaces are complete abstraction.*
-* *all the methods we write in interface are automaticaly abstracted mean not have to write abstract keyword with them.*
+* *all the methods we write in interface are automatically abstracted mean not have to write abstract keyword with them.*
 * *in interface every method is abstract no any normal is method is written. but from C# 8 or onward we can write code inside in method of by using **default** keyword.*
 * *The inheritance of interfaces is called implementation.*
 * *interfaces allows multiple implementation(inheritance) means we can implement(inherit) more then one interfaces in one class.*
